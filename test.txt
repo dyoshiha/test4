@@ -3,3 +3,4 @@ new line added
 more new line added
 added at working_branch at remote
 added at working_branch at remote #2
+added at working_branch at remote #3
