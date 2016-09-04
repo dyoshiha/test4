@@ -4,3 +4,4 @@ more new line added
 added at working_branch at remote
 added at working_branch at remote #2
 added at master branch at local
+added at working_branch at remote #3
